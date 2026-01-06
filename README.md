@@ -1,6 +1,7 @@
 # 📉 Customer Churn Prediction Model
 
 This project is a **Customer Churn Prediction System** designed to identify customers who are likely to discontinue a service. By analyzing **demographic details, account information, and service usage patterns**, the model enables businesses to take proactive retention actions, improve customer satisfaction, and maximize long-term revenue through data-driven decisions.
+
 **APP LINK:https://custchurnpred.streamlit.app/**
 ---
 
